@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        nav{background-color: paleturquoise;}
+    </style>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body  style="background-color: rgb(117, 231, 231);">
+
+<section class="clase1">
+   <h1><b>ENCABEZADO NIVEL 1</b></h1>
+</section>
+
+<section>
+<nav>
+    <span> ENLACE 1 </span>  <span> ENLACE 2 </span>    <span> ENLACE 3 </span>  <span> ENLACE 4 </span> </p>
+
+   </nav>
+</section>
+
+<section class="clase5">
+<p><section class="clase2"></p>
+   
+   <p><h3>Encabezado nivel 2</h3> </p>                              
+    
+   <p>Aquí va texto del primer <b>párrafo.</b> </p>    
+   <p>Aquí va texto del segundo párrafo.</p>       
+   
+</section></p>
+
+<section class="clase3">
+   <aside>
+    <p><b><h3>Apartado</h3></b></p>
+    <p>elije una opción</p>
+
+<form>
+<p><label for="opción 1"></p>
+    <input type="checkbox" id="option 1"
+    name="opciones"
+    value="opción 1"> Opción 1
+</label>
+
+<p><label for="opción 1"></p>
+    <input type="checkbox" id="option 2"
+    name="opciones"
+    value="opción 2"> Opción 2
+</label>
+
+<p><label for="opción 3"></p>
+    <input type="checkbox" id="option 3"
+    name="opciones"
+    value="opción 3"> Opción 3
+</label>
+
+<p><input type="submit"
+value="Enviar"></p>
+
+</form>
+
+</aside>
+
+</section>
+
+</section>
+   <section class="clase4">
+<footer><small><p>Sección de información de contacto, derechos de autor, etc.</p></small> </footer>
+</section>
+</body>
+
+</html>
